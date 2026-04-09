@@ -1,2 +1,4 @@
 pypdf==5.4.0
 nltk
+openai
+python-dotenv
